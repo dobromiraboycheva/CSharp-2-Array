@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\20VariationsOfSet\bin\Debug\20VariationsOfSet.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\20VariationsOfSet\bin\Debug\20VariationsOfSet.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\20VariationsOfSet\obj\Debug\20VariationsOfSet.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\20VariationsOfSet\obj\Debug\20VariationsOfSet.pdb

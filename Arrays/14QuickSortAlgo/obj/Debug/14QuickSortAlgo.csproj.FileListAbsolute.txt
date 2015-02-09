@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\14QuickSortAlgo\bin\Debug\14QuickSortAlgo.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\14QuickSortAlgo\bin\Debug\14QuickSortAlgo.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\14QuickSortAlgo\obj\Debug\14QuickSortAlgo.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\14QuickSortAlgo\obj\Debug\14QuickSortAlgo.pdb

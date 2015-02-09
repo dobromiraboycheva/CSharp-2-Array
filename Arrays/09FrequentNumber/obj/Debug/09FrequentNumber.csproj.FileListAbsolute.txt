@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.pdb

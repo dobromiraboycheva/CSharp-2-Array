@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.pdb

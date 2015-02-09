@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\17SubsetKWithSumS\bin\Debug\17SubsetKWithSumS.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\17SubsetKWithSumS\bin\Debug\17SubsetKWithSumS.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\17SubsetKWithSumS\obj\Debug\17SubsetKWithSumS.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\17SubsetKWithSumS\obj\Debug\17SubsetKWithSumS.pdb

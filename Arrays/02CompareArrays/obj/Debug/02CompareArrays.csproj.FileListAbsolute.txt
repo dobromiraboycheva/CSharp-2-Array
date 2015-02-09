@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\02CompareArrays\bin\Debug\02CompareArrays.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\02CompareArrays\bin\Debug\02CompareArrays.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\02CompareArrays\obj\Debug\02CompareArrays.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\02CompareArrays\obj\Debug\02CompareArrays.pdb

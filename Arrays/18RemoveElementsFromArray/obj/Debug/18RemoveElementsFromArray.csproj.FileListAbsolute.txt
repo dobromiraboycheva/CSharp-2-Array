@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\18RemoveElementsFromArray\bin\Debug\18RemoveElementsFromArray.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\18RemoveElementsFromArray\bin\Debug\18RemoveElementsFromArray.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\18RemoveElementsFromArray\obj\Debug\18RemoveElementsFromArray.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\18RemoveElementsFromArray\obj\Debug\18RemoveElementsFromArray.pdb

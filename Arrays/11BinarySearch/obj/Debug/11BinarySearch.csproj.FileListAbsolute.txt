@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\11BinarySearch\bin\Debug\11BinarySearch.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\11BinarySearch\bin\Debug\11BinarySearch.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\11BinarySearch\obj\Debug\11BinarySearch.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\11BinarySearch\obj\Debug\11BinarySearch.pdb

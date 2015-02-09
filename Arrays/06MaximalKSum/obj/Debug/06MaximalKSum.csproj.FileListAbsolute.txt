@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.pdb
